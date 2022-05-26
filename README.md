@@ -35,7 +35,7 @@ OBJETIVOS ESPECIFICOS CAPITULO IV
 
 CAPITULO III
 
-En este ca1pitulo 
+En este ca1pitulo aprenderemos la relación y la forma de calcular entre corriente voltaje y resistencia
 
 [![UNIDAD-3.png](https://i.postimg.cc/jjhbd7Nq/UNIDAD-3.png)](https://postimg.cc/cK6jF6XP) 
 
@@ -46,8 +46,11 @@ En esta unidad numero 4 nos centraremos en la energía y potencia y como se rela
 [![Blank-diagram-3.png](https://i.postimg.cc/ZqSb5jyd/Blank-diagram-3.png)](https://postimg.cc/VJKQ7qgf)
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 4.- VIDEO
+
 5.- CONCLUSIONES
+
 6.- BIBLIOGRAFÍA
 
 (N.d.). Retrieved May 26, 2022, from http://file:///C:/Users/user_lapt/Downloads/5%20Principios%20de%20circuitos%20electricos%20Floyd-protegido.pdf
