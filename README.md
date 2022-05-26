@@ -60,6 +60,7 @@ En esta unidad numero 4 nos centraremos en la energía y potencia y como se rela
 
 5.- CONCLUSIONES
 
+En esta unidad numero 3 y 4 fue crucial el entender el funcionamiento interno de cada circuito como es la relación y el calculo de corriente, voltaje y resistencia junto con el analisis de la caida de voltaje, cn todos estos parametros ya conocidos se puede dar un seguimiento optimo a la materia de circuitos.
 
 
 6.- BIBLIOGRAFÍA
