@@ -34,7 +34,3 @@ en este capitulo
 4.- VIDEO
 5.- CONCLUSIONES
 6.- BIBLIOGRAFÍA
-
-
-
-
