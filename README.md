@@ -56,6 +56,23 @@ En esta unidad numero 4 nos centraremos en la energía y potencia y como se rela
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+[![83a87b5a-01fd-48c5-b71d-9aa41ace01bf.jpg](https://i.postimg.cc/kGmfRrH0/83a87b5a-01fd-48c5-b71d-9aa41ace01bf.jpg)](https://postimg.cc/bDmQ45pg)
+
+[![51dbd553-ee25-49ea-8cb7-23c66523f282.jpg](https://i.postimg.cc/28vLXbV7/51dbd553-ee25-49ea-8cb7-23c66523f282.jpg)](https://postimg.cc/GHLp4pP4)
+
+[![b0cf65b5-d205-483d-8748-7ade4e0d0629.jpg](https://i.postimg.cc/J0X0gv4z/b0cf65b5-d205-483d-8748-7ade4e0d0629.jpg)](https://postimg.cc/dZqJZWyb)
+
+[![0b137c4d-639a-4de7-a9d5-a932b0aea65e.jpg](https://i.postimg.cc/bN8qpsmT/0b137c4d-639a-4de7-a9d5-a932b0aea65e.jpg)](https://postimg.cc/kDj0yX36)
+
+[![fc2ae262-f658-4195-97f7-b0cd03d81100.jpg](https://i.postimg.cc/MKj3PD73/fc2ae262-f658-4195-97f7-b0cd03d81100.jpg)](https://postimg.cc/SJkGjctc)
+
+[![f2ca68b9-e12b-4711-b548-028df72dfbdc.jpg](https://i.postimg.cc/GhGtcWPF/f2ca68b9-e12b-4711-b548-028df72dfbdc.jpg)](https://postimg.cc/KRcxfsHj)
+
+[![652f2b3d-e6e5-49ec-afe0-1f5ca71a8829.jpg](https://i.postimg.cc/5NB9cw1p/652f2b3d-e6e5-49ec-afe0-1f5ca71a8829.jpg)](https://postimg.cc/CzKpknRf)
+
+[![b543411e-7bf1-452a-922a-cc9ba9c56f02.jpg](https://i.postimg.cc/KYX5KSCm/b543411e-7bf1-452a-922a-cc9ba9c56f02.jpg)](https://postimg.cc/ts56ffXc)
+
+
 4.- VIDEO
 
 5.- CONCLUSIONES
