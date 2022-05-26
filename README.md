@@ -14,6 +14,15 @@ NRC: 7319
 NOMBRE DEL PROFESOR: ING. DARWIN ALULEMA
 
 1.- OBJETIVOS 
+
+El objetivo principal de esta unidad número 3 y 4 es poder dominar la ley de ohm aprendiendo La relación de corriente, voltaje y resistencia como su respectivo cálculo de igual manera la definición respectiva de energía y potencia como el cálculo de potencia en circuitos y la selección de resistores con base en potencias junto con la manera de explicar la conversión de energía y la caída de voltaje junto con la identificación de la localización de fallas en la aplicación de un circuito.
+
+OBJETIVOS ESPECIFICOS CAPITULO III
+
+
+
+OBJETIVOS ESPECIFICOS CAPITULO IV
+
 2.- MARCO TEORICO 
 
 CAPITULO III
