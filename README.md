@@ -24,8 +24,9 @@ En este ca1pitulo
 
 capitulo IV
 
-en este capitulo 
+en este capitulo
 
+[![Blank-diagram-3.png](https://i.postimg.cc/ZqSb5jyd/Blank-diagram-3.png)](https://postimg.cc/VJKQ7qgf)
 
 
 
