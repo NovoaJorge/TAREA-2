@@ -44,9 +44,9 @@ OBJETIVOS ESPECIFICOS CAPITULO IV
 
 CAPITULO III
 
-En este ca1pitulo aprenderemos la relación y la forma de calcular entre corriente voltaje y resistencia
+En este capitulo aprenderemos la relación y la forma de calcular entre corriente voltaje y resistencia
 
-
+[![UNIDAD.png](https://i.postimg.cc/zvpzFGFF/UNIDAD.png)](https://postimg.cc/2LbNzmJ1)
 
 CAPITULO IV
 
