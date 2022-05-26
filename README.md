@@ -20,16 +20,23 @@ El objetivo principal de esta unidad número 3 y 4 es poder dominar la ley de oh
 OBJETIVOS ESPECIFICOS CAPITULO III
 
 ◆ entender y explicar la ley de Ohm.
+
 ◆ Aprender el cálculo de la corriente en un circuito.
+
 ◆ Indagar y calcular el voltaje en un circuito.  
+
 ◆ Describir una aproximación básica a la localización de fallas.
+
 
 
 OBJETIVOS ESPECIFICOS CAPITULO IV
 
 ◆ Entender la definición de los términos energía y potencia.
+
 ◆ Aprender y calcular la potencia en un circuito.
+
 ◆ Seleccionar adecuadamente resistores con base en consideraciones de potencia 
+
 
 2.- MARCO TEORICO 
 
